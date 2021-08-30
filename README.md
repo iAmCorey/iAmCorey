@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @iAmCorey
 - 💻 Software development engineer
+- ☕️ Using Java
+- 📱 Learning IOS development and weixin miniprogram
 - 📷 Interested in photography
-- ⌨️ Java / Javascript
-- 🌱 Learning ios development and weixin miniprogram
+- 📍 Living in Shenzhen, China
 - 📫 Reach me - qiuyu@qiuyu.dev
 
 <!---
