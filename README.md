@@ -4,7 +4,7 @@
 - 📱 Learning AIGC related
 - 📷 Interested in photography
 - 📍 Living in Shenzhen, China
-- 📫 Reach me - qiuyu@qiuyu.dev
+- 📫 Reach me - iamcoreychiu@gmail.com
 
 <!---
 iAmCorey/iAmCorey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
