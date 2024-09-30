@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iAmCorey
-- 💻 Software development engineer
-- ☕️ Using Java
-- 📱 Learning AIGC related
+- 💻 Software engineer
+- ☕️ Inide hacker
+- 📱 Learning Front-End and AIGC related
 - 📷 Interested in photography
 - 📍 Living in Shenzhen, China
 - 📫 Reach me - iamcoreychiu@gmail.com
