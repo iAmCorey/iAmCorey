@@ -1,12 +1,23 @@
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=iAmCorey&show_icons=true&icon_color=0366d6&bg_color=ffffff&theme=github_dark&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=iAmCorey&show_icons=true&icon_color=0366d6&bg_color=ffffff&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=iAmCorey&show_icons=true&icon_color=0366d6&bg_color=ffffff&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    align="right" />
+</picture>
+
 - 👋 Hi, I’m @iAmCorey
 - 💻 Software engineer
+- 🕸 Full-Stack Web Developer
 - ☕️ Inide hacker
-- 📱 Learning Front-End and AIGC related
+- 📱 Learning AIGC related
 - 📷 Interested in photography
 - 📍 Living in Shenzhen, China
 - 📫 Reach me - iamcoreychiu@gmail.com
-
-![iAmCorey's GitHub stats](https://github-readme-stats.vercel.app/api?username=iAmCorey&show_icons=true&theme=vue)
 
 <!---
 iAmCorey/iAmCorey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
