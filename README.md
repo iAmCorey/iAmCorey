@@ -18,6 +18,11 @@
 - 📷 Interested in photography
 - 📍 Living in Shenzhen, China
 - 📫 Reach me - iamcoreychiu@gmail.com
+- 🌍 My Products
+  - [AI Best Tools](https://aibest.tools)
+  - [Best Directories](https://bestdirectories.org)
+  - [Image Translate AI](https://imagetranslate.ai)
+  - [MagicBox](https://magicbox.tools)
 
 <!---
 iAmCorey/iAmCorey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
