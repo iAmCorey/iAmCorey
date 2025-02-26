@@ -23,6 +23,7 @@
   - [Best Directories](https://bestdirectories.org)
   - [Image Translate AI](https://imagetranslate.ai)
   - [MagicBox](https://magicbox.tools)
+  - [轻息](https://apps.apple.com/us/app/aerspira/id6742171445)
 
 <!---
 iAmCorey/iAmCorey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
