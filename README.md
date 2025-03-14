@@ -19,6 +19,7 @@
 - 📍 Living in Shenzhen, China
 - 📫 Reach me - iamcoreychiu@gmail.com
 - 🌍 My Products
+  - [Corey Chiu](https://coreychiu.com)
   - [AI Best Tools](https://aibest.tools)
   - [Best Directories](https://bestdirectories.org)
   - [MagicBox](https://magicbox.tools)
