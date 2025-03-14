@@ -21,7 +21,6 @@
 - 🌍 My Products
   - [AI Best Tools](https://aibest.tools)
   - [Best Directories](https://bestdirectories.org)
-  - [Image Translate AI](https://imagetranslate.ai)
   - [MagicBox](https://magicbox.tools)
   - [轻息](https://apps.apple.com/us/app/aerspira/id6742171445)
 
