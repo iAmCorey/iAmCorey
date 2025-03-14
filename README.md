@@ -11,19 +11,19 @@
 </picture>
 
 - 👋 Hi, I’m @iAmCorey
-- 💻 Software engineer
+- 💻 Software Engineer
 - 🕸 Full-Stack Web Developer
-- ☕️ Inide hacker
-- 📱 Learning AIGC related
-- 📷 Interested in photography
+- ☕️ Inide Hacker
+- 👀 Learning AI Related
+- 📷 Interested in Photography
 - 📍 Living in Shenzhen, China
-- 📫 Reach me - iamcoreychiu@gmail.com
+- 📫 Reach me - **iamcoreychiu@gmail.com**
 - 🌍 My Products
   - [Corey Chiu](https://coreychiu.com)
   - [AI Best Tools](https://aibest.tools)
   - [Best Directories](https://bestdirectories.org)
   - [MagicBox](https://magicbox.tools)
-  - [轻息](https://apps.apple.com/us/app/aerspira/id6742171445)
+  - [轻息](https://apps.apple.com/us/app/auram/id6742171445)
 
 <!---
 iAmCorey/iAmCorey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
