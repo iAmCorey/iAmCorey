@@ -23,6 +23,7 @@
   - [AI Best Tools](https://aibest.tools)
   - [Best Directories](https://bestdirectories.org)
   - [MagicBox](https://magicbox.tools)
+  - [JSON Merge](https://jsonmerge.com)
   - [轻息](https://apps.apple.com/us/app/auram/id6742171445)
 
 <!---
