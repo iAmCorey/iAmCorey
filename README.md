@@ -19,12 +19,13 @@
 - 📍 Living in Shenzhen, China
 - 📫 Reach me - **iamcoreychiu@gmail.com**
 - 🌍 My Products
-  - [Corey Chiu](https://coreychiu.com)
-  - [AI Best Tools](https://aibest.tools)
-  - [Best Directories](https://bestdirectories.org)
-  - [MagicBox](https://magicbox.tools)
-  - [JSON Merge](https://jsonmerge.com)
-  - [轻息](https://apps.apple.com/us/app/auram/id6742171445)
+  - [Corey Chiu](https://coreychiu.com?utm_source=github_profile)
+  - [MagicBox](https://magicbox.tools?utm_source=github_profile)
+  - [AI Best Tools](https://aibest.tools?utm_source=github_profile)
+  - [Best Directories](https://bestdirectories.org?utm_source=github_profile)
+  - [MoneyFast](https://moneyfa.st?utm_source=github_profile)
+  - [JSON Merge](https://jsonmerge.com?utm_source=github_profile)
+  - [轻息](https://apps.apple.com/us/app/auram/id6742171445?utm_source=github_profile)
 
 <!---
 iAmCorey/iAmCorey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
