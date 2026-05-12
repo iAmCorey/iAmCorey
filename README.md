@@ -20,6 +20,7 @@
 - 📫 Reach me - **iamcoreychiu@gmail.com**
 - 🌍 My Products
   - [Corey Chiu](https://coreychiu.com?utm_source=github_profile)
+  - [Kooky](https://github.com/iamcorey/kooky)
   - [MagicBox](https://magicbox.tools?utm_source=github_profile)
   - [AI Best Tools](https://aibest.tools?utm_source=github_profile)
   - [Best Directories](https://bestdirectories.org?utm_source=github_profile)
