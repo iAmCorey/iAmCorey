@@ -22,6 +22,7 @@
   - [Corey Chiu](https://coreychiu.com?utm_source=github_profile)
   - [Kooky](https://github.com/iamcorey/kooky)
   - [Birth](https://github.com/iamcorey/birth)
+  - [Wake](https://github.com/iamcorey/Wake)
   - [Show me the codes](https://showmethe.codes?utm_source=github_profile)
   - [MagicBox](https://magicbox.tools?utm_source=github_profile)
   - [AI Best Tools](https://aibest.tools?utm_source=github_profile)
